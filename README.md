@@ -1,4 +1,3 @@
-[![MasterHead](https://tenfei03.cfp.cn/creative/vcg/800/new/VCG211378344275.jpg)](https://qiaopengjun5162.github.io/)
 
 <h1 align="center">Hi 👋, I'm Qiao Pengjun (乔鹏军)</h1>
 <h3 align="center">I'm a frontend and backend ethusiast</h3>
