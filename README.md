@@ -13,7 +13,9 @@
 
 - 💬 Ask me about **Python, Go, Rust, MongoDB, MySQL, Docker, Move**
 
-- 📫 How to reach me **<qiaopengjun0@gmail.com>**
+- 📫 How to reach me
+  - **<qiaopengjun0@gmail.com>**
+  - **<https://learnblockchain.cn/people/18602>**
 
 - ⚡ Fun fact **I am funny**
 
