@@ -11,11 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=qiaopengjun5162&label=Profile%20views&color=0e75b6&style=flat" alt="qiaopengjun5162" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=qiaopengjun5162" alt="qiaopengjun5162" />
-  </a>
-</p>
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=qiaopengjun&theme=discord&no-frame=true&no-bg=false&margin-w=4)
