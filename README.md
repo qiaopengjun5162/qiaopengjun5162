@@ -1,17 +1,26 @@
-
 <h1 align="center">Hi 👋, I'm Qiao Pengjun (乔鹏军)</h1>
-<h3 align="center">I'm a frontend and backend ethusiast</h3>
-<img align="right" width="500" alt="wpcodevo" src="https://github.com/wpcodevo/wpcodevo/blob/main/typing.gif" />
+<h3 align="center">I'm a Coding Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qiaopengjun5162&label=Profile%20views&color=0e75b6&style=flat" alt="qiaopengjun5162" /> </p>
+<p align="center">
+  <img width="500" alt="wpcodevo" src="https://github.com/wpcodevo/wpcodevo/blob/main/typing.gif" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qiaopengjun5162" alt="qiaopengjun5162" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=qiaopengjun5162&label=Profile%20views&color=0e75b6&style=flat" alt="qiaopengjun5162" />
+</p>
 
-- 🌱 I’m currently learning **Rust and move**
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=qiaopengjun5162" alt="qiaopengjun5162" />
+  </a>
+</p>
+
+- 🌱 I’m currently learning **Rust and Move**
 
 - 📝 I regularly write articles on [https://qiaopengjun5162.github.io/](https://qiaopengjun5162.github.io/)
 
 - 💬 Ask me about **Python, Go, Rust, MongoDB, MySQL, Docker, Move**
+
 
 - 📫 How to reach me
   - **<qiaopengjun0@gmail.com>**
