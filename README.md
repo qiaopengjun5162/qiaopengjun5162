@@ -16,6 +16,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=qiaopengjun5162" alt="qiaopengjun5162" />
   </a>
 </p>
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=qiaopengjun&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 - 🌱 I’m currently learning **Rust and Move**
 
@@ -53,5 +56,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qiaopengjun5162&show_icons=true&locale=en&layout=compact" alt="qiaopengjun5162" /></p>
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qiaopengjun5162&" alt="qiaopengjun5162" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=qiaopengjun5162&" alt="qiaopengjun5162" /></p>
