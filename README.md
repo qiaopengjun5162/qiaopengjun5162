@@ -52,6 +52,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qiaopengjun5162&show_icons=true&locale=en&layout=compact" alt="qiaopengjun5162" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qiaopengjun5162&show_icons=true&locale=en" alt="qiaopengjun5162" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qiaopengjun5162&" alt="qiaopengjun5162" /></p>
