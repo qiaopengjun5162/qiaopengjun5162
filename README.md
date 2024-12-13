@@ -11,7 +11,7 @@
 ## 🔗 Connect With Me  
 
 - 📫 **Email:** [qiaopengjun0@gmail.com](mailto:qiaopengjun0@gmail.com)  
-- 🌐 **Blog:** [qiaopengjun5162.github.io](https://qiaopengjun5162.github.io/)  
+- 🌐 **Blog:** [qiaopengjun](https://paxon.fun/)  
 - 📖 **LearnBlockChain Profile:** [View My Profile](https://learnblockchain.cn/people/18602)  
 
 ---
