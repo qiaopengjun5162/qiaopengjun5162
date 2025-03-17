@@ -40,11 +40,22 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 My Coding Journey
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=qiaopengjun5162&show_icons=true&theme=radical&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaopengjun5162&layout=compact&theme=radical" />
+  <!-- GitHub Stats -->
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=qiaopengjun5162&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
+  <!-- Top Languages -->
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaopengjun5162&layout=compact&theme=dracula&hide_border=true" />
+</div>
+
+<div align="center">
+  <!-- Coding Activity -->
+  <p>🚀 <strong>Lately, I've been coding in...</strong> 🚀</p>
+  <a href="https://codestats.net/users/PaxonQiao">
+    <img src="https://codestats-readme.wegfan.cn/history-graph/PaxonQiao?width=850&height=300&theme=dark&background_color=0a0f2b&title_color=ff79c6&border_radius=10&history_days=30&max_languages=8&language_colors=[%22ff79c6%22,%228be9fd%22,%2250fa7b%22,%22ffb86c%22,%22bd93f9%22,%22ff5555%22,%226272a4%22,%22f1fa8c%22]" 
+         alt="PaxonQiao's Code::Stats History" />
+  </a>
 </div>
 
 ---
