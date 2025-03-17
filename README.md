@@ -49,9 +49,10 @@
 
 ---
 
-## Recently I'm coding in...
-<a href="https://codestats.net/users/jokinglove">
-<img src='https://codestats-readme.wegfan.cn/history-graph/jokinglove?width=850&heoight=300&timezone=08:00&history_days=20&max_languages=12&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","00897b","b276b2","ffc0cb","cddc39","7e57c2","bdbdbd"]' alt="JOKING's Code::Stats history graph" />
+## Lately, I've been coding in...
+<a href="https://codestats.net/users/PaxonQiao">
+  <img src="https://codestats-readme.wegfan.cn/history-graph/PaxonQiao?width=850&height=300&theme=dark&background_color=0a0f2b&title_color=ff79c6&border_radius=10&history_days=30&max_languages=8&language_colors=[%22ff79c6%22,%228be9fd%22,%2250fa7b%22,%22ffb86c%22,%22bd93f9%22,%22ff5555%22,%226272a4%22,%22f1fa8c%22]" 
+       alt="PaxonQiao's Code::Stats History" />
 </a>
 
 ## ✨ Fun Fact  
