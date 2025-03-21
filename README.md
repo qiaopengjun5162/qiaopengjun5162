@@ -1,14 +1,14 @@
 
 ---
 
-# 👋 Hello, I'm **乔鹏军 (Paxon Qiao)**  
+# 👋 Hey there, I'm **乔鹏军 (Paxon Qiao)**  
 
 🎯 **Web3 Developer | Blockchain Enthusiast**  
-🌍 **Building the Future of Decentralization**  
+🌍 **Crafting the Decentralized Future, One Block at a Time**  
 
 ---
 
-## 🔗 Connect With Me  
+## 🔗 Let’s Connect  
 
 - 📫 **Email:** [qiaopengjun0@gmail.com](mailto:qiaopengjun0@gmail.com)  
 - 🌐 **Blog:** [paxon.fun](https://paxon.fun/)  
@@ -32,36 +32,32 @@
 
 ---
 
-## 🚀 Current Focus  
+## 🚀 What I’m Up To  
 
-- 🌱 **Learning**: Rust, Move, and advanced Web3 protocols  
-- ✍️ **Writing**: Articles about Solidity, smart contracts, and decentralized systems  
-- 🛠️ **Building**: NFT marketplaces, RedPacket dApps, and upgradeable factory contracts  
+- 🌱 **Exploring**: Rust, Move, and next-gen Web3 protocols  
+- ✍️ **Writing**: Insights on Solidity, smart contracts, and decentralization  
+- 🛠️ **Building**: NFT marketplaces, RedPacket dApps, and scalable factory contracts  
 
 ---
 
-## 📊 My Coding Journey
+## 📊 My Coding Story  
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=qiaopengjun5162&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
-  <!-- Top Languages -->
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaopengjun5162&layout=compact&theme=dracula&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=qiaopengjun5162&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaopengjun5162&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <!-- Coding Activity -->
-  <p>🚀 <strong>Lately, I've been coding in...</strong> 🚀</p>
+  <p>🚀 <strong>Recent Coding Vibes</strong> 🚀</p>
   <a href="https://codestats.net/users/PaxonQiao">
-    <img src="https://codestats-readme.wegfan.cn/history-graph/PaxonQiao?width=850&height=300&theme=dark&background_color=0a0f2b&title_color=ff79c6&border_radius=10&history_days=30&max_languages=8&language_colors=[%22ff79c6%22,%228be9fd%22,%2250fa7b%22,%22ffb86c%22,%22bd93f9%22,%22ff5555%22,%226272a4%22,%22f1fa8c%22]" 
-         alt="PaxonQiao's Code::Stats History" />
+    <img src="https://codestats-readme.wegfan.cn/history-graph/PaxonQiao?width=850&height=300&theme=dark&background_color=0a0f2b&title_color=ff79c6&border_radius=10&history_days=30&max_languages=8&language_colors=[%22ff79c6%22,%228be9fd%22,%2250fa7b%22,%22ffb86c%22,%22bd93f9%22,%22ff5555%22,%226272a4%22,%22f1fa8c%22]" alt="PaxonQiao's Code::Stats" />
   </a>
 </div>
 
 ---
 
-## ✨ Fun Fact  
+## ✨ Random Tidbit  
 
-"I'm often told I'm funny — a claim I sometimes believe myself!"
+"People say I’m funny — I’m still deciding if I agree!"
 
 ---
