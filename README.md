@@ -1,7 +1,4 @@
-
----
-
-# 👋 Hey there, I'm **乔鹏军 (Paxon Qiao)**  
+# <span style="color: #ff79c6">👋 Hey there, I'm **乔鹏军 (Paxon Qiao)**</span>  
 
 🎯 **Web3 Developer | Blockchain Enthusiast**  
 🌍 **Crafting the Decentralized Future, One Block at a Time**  
@@ -50,13 +47,13 @@
 <div align="center">
   <p>🚀 <strong>Recent Coding Vibes</strong> 🚀</p>
   <a href="https://codestats.net/users/PaxonQiao">
-    <img src="https://codestats-readme.wegfan.cn/history-graph/PaxonQiao?width=850&height=300&theme=dark&background_color=0a0f2b&title_color=ff79c6&border_radius=10&history_days=30&max_languages=8&language_colors=[%22ff79c6%22,%228be9fd%22,%2250fa7b%22,%22ffb86c%22,%22bd93f9%22,%22ff5555%22,%226272a4%22,%22f1fa8c%22]" alt="PaxonQiao's Code::Stats" />
+    <img src="https://codestats-readme.wegfan.cn/history-graph/PaxonQiao?width=850&height=300&theme=dark&background_color=1a1b27&title_color=ff79c6&border_radius=10&history_days=30&max_languages=8&language_colors=[%22ff79c6%22,%228be9fd%22,%2250fa7b%22,%22ffb86c%22,%22bd93f9%22,%22ff5555%22,%22f1fa8c%22,%226272a4%22]]" alt="PaxonQiao's Code::Stats" />
   </a>
 </div>
 
 ---
 
-## ✨ Random Tidbit  
+## <span style="color: #ff5555">✨ Random Tidbit</span>  
 
 "People say I’m funny — I’m still deciding if I agree!"
 
