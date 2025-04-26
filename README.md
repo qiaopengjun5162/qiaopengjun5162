@@ -52,7 +52,8 @@
 </div>
 <div align="center">
   <p>🚀 <strong>Wakatime</strong> 🚀</p>
-<img align='center'src="https://github-readme-stats.vercel.app/api/wakatime?username=qiaopengjun5162"/> 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=qiaopengjun5162&theme=xcode" /> </div>
+
  </div>   
 
 ---
