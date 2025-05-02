@@ -50,12 +50,6 @@
     <img src="https://codestats-readme.wegfan.cn/history-graph/PaxonQiao?width=850&height=300&theme=dark&background_color=0a0f2b&title_color=ff79c6&border_radius=10&history_days=30&max_languages=8&language_colors=[%22ff79c6%22,%228be9fd%22,%2250fa7b%22,%22ffb86c%22,%22bd93f9%22,%22ff5555%22,%226272a4%22,%22f1fa8c%22]" alt="PaxonQiao's Code::Stats" />
   </a>
 </div>
-<div align="center">
-  <p>🚀 <strong>Wakatime</strong> 🚀</p>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=qiaopengjun5162&theme=xcode" /> </div>
-
- </div>   
-
 ---
 
 ## <span style="color: #ff5555">✨ Random Tidbit</span>  
